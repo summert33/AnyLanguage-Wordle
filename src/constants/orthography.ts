@@ -9,7 +9,7 @@ export const ORTHOGRAPHY = [
   'ee',
   'g',
   'h',
-  "'",
+  'ʔ',
   'i',
   'ii',
   'j',
@@ -42,14 +42,7 @@ export const ORTHOGRAPHY = [
   'sht',
   'sk',
   "'w",
-  
  
-  
-  
-  
-  
-  
-  
 ]
 
 if (CONFIG.normalization) {

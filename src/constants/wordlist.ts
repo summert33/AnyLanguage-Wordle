@@ -6,7 +6,6 @@ export const WORDS = [
   'obwaam',
   'poohay',
   'wadoop',
-  
 ]
 
 if (CONFIG.normalization) {

@@ -1,8 +1,8 @@
 import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
-  'abanzh',
-  'dabasaa',
+  'wadab',
+  'zagam',
   'obwaam',
   'poohay',
   'wadoop',

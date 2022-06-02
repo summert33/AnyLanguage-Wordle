@@ -1,8 +1,8 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
-  'abanzh',
-  'dabasaa',
+  'zagam',
+  'wadab',
   'obwaam',
   'poohay',
   'wadoop',
